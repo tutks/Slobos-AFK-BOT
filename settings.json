@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "invernio.seedloaf.gg",
+    "ip": "holak.seedloaf.gg",
     "port": 25565,
-    "version": "1.21.1"
+    "version": "1.21.4"
   },
   "position": {
     "enabled": true,
