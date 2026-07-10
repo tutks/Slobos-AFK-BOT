@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "holak.seedloaf.gg",
+    "ip": "invernio.seedloaf.gg",
     "port": 25565,
     "version": "1.21.4"
   },
