@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "benjacuto",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "invernio.seedloaf.gg",
