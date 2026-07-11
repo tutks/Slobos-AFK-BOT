@@ -1,7 +1,7 @@
 {
   "name": "tutotik",
   "bot-account": {
-    "username": "benjacuto",
+    "username": "Invernio´s Bot",
     "password": "",
     "type": "online"
   },
@@ -30,9 +30,11 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "tengo chicha e e cukjylo",
+        "quiero queque",
+        "E gordo olor a piis soy el gordo puflitoo",
+        "Que olor a puto",
+        "QUE FRIO QUE HACE CHANGO"
       ]
     },
     "chat-log": true,
