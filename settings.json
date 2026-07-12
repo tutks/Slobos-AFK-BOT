@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "Slobos"
     },
     "anti-afk": {
@@ -26,7 +26,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
@@ -37,7 +37,7 @@
         "QUE FRIO QUE HACE CHANGO"
       ]
     },
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
@@ -55,7 +55,7 @@
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {
@@ -64,22 +64,22 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
-    "beds": true,
-    "chat": true,
-    "console-commands": true
+    "avoidMobs": false,
+    "combat": false,
+    "beds": falae,
+    "chat": false,
+    "console-commands"false
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat"false
   },
   "beds": {
     "pick-up-day": true,
     "place-night": true
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
     "events": {
       "connect": true,
